@@ -1,4 +1,4 @@
 # MiRecetaFacilita
-Landing Page de Mi Receta Facilita
-Go to
-https://aduii.github.io/MiRecetaFacilita/
+
+[Mi Receta Facilita WebSite](https://aduii.github.io/MiRecetaFacilita/ "Mi Receta Facilita WebSite")
+
